@@ -23,6 +23,7 @@ Technologies Used:
 Backend: Java, Spring Boot, Spring Data JPA
 Frontend: HTML, CSS, JavaScript, D3.js
 Database: MySQL
+
 How to Run:
 
 Clone the repository:
